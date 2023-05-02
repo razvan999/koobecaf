@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/koobecaf/static/css/main.588cadb6.css",
+    "main.js": "/koobecaf/static/js/main.12e99a65.js",
+    "static/js/787.00c8eaa3.chunk.js": "/koobecaf/static/js/787.00c8eaa3.chunk.js",
+    "static/media/hugh-jackman.jpg": "/koobecaf/static/media/hugh-jackman.5a0b61a770f42b13d41f.jpg",
+    "static/media/jk.jpg": "/koobecaf/static/media/jk.df26479d4bfc951e0b64.jpg",
+    "static/media/andrew-tate.jpg": "/koobecaf/static/media/andrew-tate.058f64cff753d87c1091.jpg",
+    "static/media/KevinHart.jpg": "/koobecaf/static/media/KevinHart.3211a29a83eac7009851.jpg",
+    "static/media/kevin-hart-feed.jpg": "/koobecaf/static/media/kevin-hart-feed.7a0cd6073460891fae9a.jpg",
+    "static/media/free-tate.jpg": "/koobecaf/static/media/free-tate.814d3d7c465a22aca72c.jpg",
+    "static/media/elon-musk.jpg": "/koobecaf/static/media/elon-musk.cd1d3568639216243fbb.jpg",
+    "static/media/kevin-hart.jpg": "/koobecaf/static/media/kevin-hart.2b5ceefa88652189f697.jpg",
+    "static/media/share.svg": "/koobecaf/static/media/share.a9b21aa655620946a878b2cde806cf47.svg",
+    "static/media/loadImg.svg": "/koobecaf/static/media/loadImg.8c376355eff4f323b5430ad1bf700703.svg",
+    "static/media/Groupfriends.svg": "/koobecaf/static/media/Groupfriends.9068ad709d9833a82139449c1940dee1.svg",
+    "static/media/Chat_alt_2_light.svg": "/koobecaf/static/media/Chat_alt_2_light.d076b467dfbb4cdcda99ed1ba1572d5f.svg",
+    "static/media/comment.svg": "/koobecaf/static/media/comment.936d2a9505c80b51321bc94a28b34300.svg",
+    "static/media/notif.svg": "/koobecaf/static/media/notif.5a10d93a921af75ec292e87d63e1ecfc.svg",
+    "static/media/Groupprofile.svg": "/koobecaf/static/media/Groupprofile.f263e728e084d254c7b42fd6c81eb6aa.svg",
+    "static/media/out.svg": "/koobecaf/static/media/out.e8a874467e067514340104c2812d1aec.svg",
+    "static/media/like.svg": "/koobecaf/static/media/like.9e4abf3aab17ae9545aa49525dabdfa2.svg",
+    "static/media/send.svg": "/koobecaf/static/media/send.45689154e6f7f8d21ebaf4e1c452ed3e.svg",
+    "index.html": "/koobecaf/index.html",
+    "static/media/Vectorhome.svg": "/koobecaf/static/media/Vectorhome.e36e052929ebf88f83e00343a2bcd834.svg",
+    "static/media/arrow.svg": "/koobecaf/static/media/arrow.4477346a9b6205ee8e57da76746443ea.svg",
+    "static/media/search.svg": "/koobecaf/static/media/search.3a61edd8a2818c504f69c3ae1439fb82.svg",
+    "static/media/like-clicked.svg": "/koobecaf/static/media/like-clicked.a22b25c987fb9d18501a.svg",
+    "main.588cadb6.css.map": "/koobecaf/static/css/main.588cadb6.css.map",
+    "main.12e99a65.js.map": "/koobecaf/static/js/main.12e99a65.js.map",
+    "787.00c8eaa3.chunk.js.map": "/koobecaf/static/js/787.00c8eaa3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.588cadb6.css",
+    "static/js/main.12e99a65.js"
+  ]
+}
