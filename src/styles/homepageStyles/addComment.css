@@ -3,7 +3,9 @@
     display: flex;
     border-top: 1px solid gray;
     padding-top: 20px;
+    /* width: 100%; */
 }
+
 
 .commentInput{
     background-color: var(--background-clr);
@@ -11,6 +13,7 @@
     padding: 5px;
     height: 40px;
     display: flex;
+
     width: 100%;
 }
 

@@ -1,6 +1,12 @@
 .container{
   /* height: 100vh; */
-  width: 100vw;
+  /* width: 100vw; */
+  /* width: 100%; */
+  position: relative;
+  /* width: 500px; */
+  width: 80%;
+  left: 20%;
+  margin-left: 3000px;
   margin:0;
   padding: 0;
   background-color: #F1E5FF;
@@ -17,6 +23,8 @@
   height: 7%;
   margin:7px;
   border-radius: 8px;
+
+  /* left: 20%; */
 }
 
 .search_box{

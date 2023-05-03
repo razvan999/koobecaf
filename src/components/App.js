@@ -18,10 +18,10 @@ export default function App() {
   //   justifyContent: 'center'
   // };
 
-  const AppStyle = {
-    display: 'flex',
-    flexWrap: 'wrap'
-  }
+  // const AppStyle = {
+  //   display: 'flex',
+  //   flexWrap: 'wrap'
+  // }
 
   return (
 

@@ -30,7 +30,9 @@ export default function AddComment() {
 
     return (
         <div className="addComment">
-            <ShowAccount account={{name:null, picture: require('../../photos/KevinHart.jpg'), uploadDate:null}}/>
+            <div>
+                <ShowAccount account={{name:null, picture: require('../../photos/KevinHart.jpg'), uploadDate:null}}/>
+            </div>
             <div className="commentInput">
                 <input id="comment-input" onChange={updateTypeAreaVal} type="text" placeholder="Write a comment..."/>
                 <label htmlFor="file-input" className="file-input">
